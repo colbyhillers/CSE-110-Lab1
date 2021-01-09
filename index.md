@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+![Colby](Colby.jpg)
 
-You can use the [editor on GitHub](https://github.com/colbyhillers/CSE-110-Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Colby Hillers
+I am a ***second year*** **Computer Engineering** major in *Warren* college. Some things that I enjoy are going to the beach, playing and watching basketball, baking, hanging with friends(socially distanced of course), and gambling my life savings on Bitcoin and Tesla. A quote from Rocky Balboa that would describe me accurately is:
+> Nobody owes nobody nothing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Here's one command that has brought me great joy and great pain throughout my life
+```
+rm -rf [directory]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Winter Quarter Goals
+- Pass all my classes
+- Invest more into crypto
+- Learn a new skill
+- Make profit from crypto
+- ~~Go broke~~
 
-### Jekyll Themes
+### Favorite Languages(Ranked)
+1. Java
+2. C++
+3. Python
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colbyhillers/CSE-110-Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My favorite way to relieve stress [this](https://www.youtube.com/).
 
-### Support or Contact
+### Checklist for this Assignment
+- [x] Bold, Italics, and Strikethrough
+- [x] Lists
+- [x] Links
+- [ ] Turned in
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
