@@ -1,4 +1,4 @@
-<img src="Colby2.jpg" align="left" height="48" width="48" >
+<img src="Colby2.jpg" align="left" height="200" width="200" >
 
 ## Colby Hillers
 I am a ***second year*** **Computer Engineering** major in *Warren* college. Some things that I enjoy are going to the beach, playing and watching basketball, baking, hanging with friends(socially distanced of course), and gambling my life savings on Bitcoin and Tesla. A quote from Rocky Balboa that would describe me accurately is:
